@@ -1,6 +1,6 @@
-// Mehmetcan Uzun - HepsiBurada CaseStudy Entegrasyon Testi
+// Mehmetcan Uzun - Simple Integration Test
 
-package hepsiburadaCase;
+package autoPrac;
 
 import java.net.HttpURLConnection;
 import java.net.URL;

@@ -1,7 +1,6 @@
-// Mehmetcan Uzun - HepsiBurada CaseStudy Test Otomasyonu
-// Lokalde çalıştığını gösteren video "Test Otomasyonu.mkv" adıyla paylaşılmıştır.
+// Mehmetcan Uzun - automationpractice.com example selenium automation for registering an account & purchasing several items.
 
-package hepsiburadaCase;
+package autoPrac;
 
 import static org.junit.Assert.assertEquals;
 import java.text.SimpleDateFormat;
